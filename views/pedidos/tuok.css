@@ -1,0 +1,5 @@
+.sidebar {
+    position: fixed;
+    height: 100vh;
+    /* Para garantir que a coluna lateral ocupe toda a altura da tela */
+}
